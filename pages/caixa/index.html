@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SEU SITE — Área restrita</title>
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+</head>
+<body>
+
+      <form id="form-login">
+        <label>Senha
+          <input name="password" type="password" required autocomplete="current-password" />
+        </label>
+        <div class="cf-turnstile" data-sitekey=""></div>
+        <button type="submit">Entrar</button>
+        <p id="login-status" role="status"></p>
+      </form>
+
+  <script type="module" src="/js/login.js"></script>
+</body>
+</html>
