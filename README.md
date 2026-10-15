@@ -8,6 +8,8 @@ A infraestrutura é **gratuita** na [Cloudflare](https://www.cloudflare.com/): u
 
 MIT. Sem cadastro neste kit — a conta é a sua, na Cloudflare.
 
+**Exemplos:** [demonstracao.akafrx.com](https://demonstracao.akafrx.com) · [meu-site.akafrx.com](https://meu-site.akafrx.com)
+
 ## O que vem no ar
 
 | URL | O quê |

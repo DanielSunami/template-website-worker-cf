@@ -8,6 +8,8 @@ Hosting is **free** on [Cloudflare](https://www.cloudflare.com/): a Worker (HTML
 
 MIT. No signup with this kit — the account is yours, on Cloudflare.
 
+**Live demos:** [demonstracao.akafrx.com](https://demonstracao.akafrx.com) · [meu-site.akafrx.com](https://meu-site.akafrx.com)
+
 ## What goes live
 
 | URL | What |
